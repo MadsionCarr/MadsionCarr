@@ -9,10 +9,10 @@ public class Program {
         int celcius = sc.nextInt();
 
         if(celcius >= 100) {
-System.out.println("Boiling");
+        System.out.println("Boiling");
         }
         else {
-System.out.println("Not Boiling");
+        System.out.println("Not Boiling");
         }
 
         
